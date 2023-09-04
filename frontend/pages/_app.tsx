@@ -8,7 +8,7 @@ import { ThemeSwitcherProvider, THEME } from 'contexts/theme/theme.provider';
 import { CartProvider } from 'contexts/cart/cart.provider';
 import { ApolloProvider } from '@apollo/client';
 import { useApollo } from 'apollo/github.client';
-// external css
+// external css 
 import '@glidejs/glide/dist/css/glide.core.min.css';
 import 'react-toastify/dist/ReactToastify.css';
 import 'react-big-calendar/lib/css/react-big-calendar.css';
